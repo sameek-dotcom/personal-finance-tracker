@@ -18,7 +18,7 @@ app.add_middleware(
 conn = psycopg2.connect(
     database="finance_db",
     user="postgres",
-    password="Samee@6363325",
+    password="YourPassowrd",
     host="localhost",
     port="5432"
 )
